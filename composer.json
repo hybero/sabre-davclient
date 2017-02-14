@@ -1,5 +1,5 @@
 {
-    "name": "sabre/davclient",
+    "name": "hybero/sabre-davclient",
     "description": "The sabre/davclient library provides an easy to use library for consuming Web-, Cal- and CardDAV services",
     "keywords": [ "WebDAV", "CalDAV", "CardDAV" ],
     "homepage": "https://github.com/fruux/sabre-davclient",
